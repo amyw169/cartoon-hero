@@ -1,0 +1,36 @@
+body {
+    background-color: #4c724c;
+}
+
+h1{
+font-size: 30px;
+color: #ff69bf;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+h2 {
+font-size: 20px;
+color:coral;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.big {
+font-size: 70px;
+}
+.uppercase {
+text-transform: uppercase;
+}
+
+.center {
+text-align: center;
+}
+
+.big.center {
+text-transform: lowercase;
+color:gold;
+}
+h1 span{
+text-align: center;
+color:crimson;
+font-size: medium;
+}
