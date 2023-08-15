@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    background-color: #CD5C5C;
+    text-align: center;
+
+
+}
+
+header h1 {
+    color: floralwhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header img {
+    border-radius: 150px;
+    width: 280px;
+}
